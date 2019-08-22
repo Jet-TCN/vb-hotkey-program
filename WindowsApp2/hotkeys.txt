@@ -1,0 +1,6 @@
+WARNING, HOTKEY MUST BE ON IN ORDER TO USE HOTKEYS
+ESC = Close
+M = Mute
+CTRL + F12 = Hide (press again to unhide)
+CTRL + F11 = Reveal numpad hotkeys (release to hide)
+Press numpad key in order to type out assigned character
